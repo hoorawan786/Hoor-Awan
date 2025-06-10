@@ -33,7 +33,7 @@ module.exports.run = async function({ api, event }) {
                 const fs = require("fs");
                 return api.sendMessage("Assalamu Alaikum Everyone🥀🥀", event.threadID, () => api.sendMessage({body:`🌺Shaan🦋🌺 CONNECTED«
 
-Bot Made By 𝐇𝐀𝐌𝐙𝐈 𝐓𝐑𝐈𝐂𝐊𝐄𝐑 𝐇☘️
+Bot Made By 𝐇𝐎𝐎𝐑𝐈 𝐓𝐑𝐈𝐂𝐊𝐄𝐑 𝐇☘️
 <------------------------------>  
 BOT CONNECTED SUCCESFUL !!! 
 
@@ -45,11 +45,11 @@ USE HELP TO SEE COMMAND
 <<<<<------------------------------>>>>>
 AND FOR ANY REPORT OR CONTACT BOT DEVELOPER
 
-OWNER: 𝐇𝐀𝐌𝐙𝐈
+OWNER: 𝐇𝐎𝐎𝐑𝐈
 
 ♻️Facebook: 
 
-https://www.facebook.com/tte.618685&mibextid=ZbWKwL
+https://www.facebook.com/hoor.awan.tte&93796m8ibextid=ZbWKwL
 
 Youtube Site : N/A
 
@@ -57,7 +57,7 @@ Youtube Site : N/A
 
 https://www.instagram.com/hamzitrickerh345?igsh=MXVneXZ6bzR4bHhvcg==￼
 
-☣️Email: hamzitech838@gmail.com
+☣️Email: hoora3381@gmail.com 
 
 ⚠️Wp: +92 3096269143 `, attachment: fs.createReadStream(__dirname + "/cache/lv_7413647234832682256_20250105005634.mp4")} ,threadID));
         }
